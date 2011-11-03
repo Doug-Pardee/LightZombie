@@ -129,7 +129,11 @@ int output_color=1, output_bps=8, output_tiff=0, med_passes=0;
 int no_auto_bright=0;
 unsigned greybox[4] = { 0, 0, UINT_MAX, UINT_MAX };
 float cam_mul[4], pre_mul[4], cmatrix[3][4], rgb_cam[3][4];
+#ifdef LIGHTZONE
+double xyz_rgb[3][3] = {			/* XYZ from RGB */
+#else
 const double xyz_rgb[3][3] = {			/* XYZ from RGB */
+#endif
   { 0.412453, 0.357580, 0.180423 },
   { 0.212671, 0.715160, 0.072169 },
   { 0.019334, 0.119193, 0.950227 } };
@@ -8423,6 +8427,11 @@ int CLASS main (int argc, const char **argv)
 #endif
 #ifdef LIGHTZONE
   char *ofbase = 0;
+  float rimm[3][3] =
+  { { 0.7977, 0.2880, 0.0000 },
+    { 0.1352, 0.7119, 0.0000 },
+    { 0.0313, 0.0001, 0.8249 } };
+  double *pdouble;
 #endif
 
 #ifndef LOCALTIME
@@ -8547,6 +8556,9 @@ int CLASS main (int argc, const char **argv)
 	return 1;
     }
   }
+#ifdef LIGHTZONE  
+  for (i=0; i<3; ++i) FORC3 xyz_rgb[i][c] = rimm[c][i];
+#endif
   if (use_camera_matrix < 0)
       use_camera_matrix = use_camera_wb;
   if (arg == argc) {
