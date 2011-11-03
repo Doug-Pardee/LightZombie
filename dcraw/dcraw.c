@@ -8679,6 +8679,10 @@ int CLASS main (int argc, const char **argv)
 	  for (i=0; i < 16; i++)
 	    putchar (cdesc[fc(i >> 1,i & 1)]);
 	}
+#ifdef LIGHTZONE	
+	printf(_("\nCamera RGB Profile:"));
+	for (i=0; i<3; ++i) FORCC printf(" %f", rgb_cam[i][c]);
+#endif
 	printf (_("\nDaylight multipliers:"));
 	FORCC printf (" %f", pre_mul[c]);
 	if (cam_mul[0] > 0) {
