@@ -8421,6 +8421,9 @@ int CLASS main (int argc, const char **argv)
 #ifndef NO_LCMS
   const char *cam_profile=0, *out_profile=0;
 #endif
+#ifdef LIGHTZONE
+  char *ofbase = 0;
+#endif
 
 #ifndef LOCALTIME
   putenv ((char *) "TZ=UTC");
@@ -8515,6 +8518,9 @@ int CLASS main (int argc, const char **argv)
       case 'p':  cam_profile = argv[arg++];
 #endif
 	break;
+#ifdef LIGHTZONE
+      case 'F':  ofbase     = argv[arg++];  break;
+#endif
       case 'P':  bpfile     = argv[arg++];  break;
       case 'K':  dark_frame = argv[arg++];  break;
       case 'z':  timestamp_only    = 1;  break;
@@ -8750,6 +8756,11 @@ thumbnail:
     if (write_to_stdout)
       strcpy (ofname,_("standard output"));
     else {
+#ifdef LIGHTZONE
+      if (ofbase)
+        strcpy (ofname, ofbase);
+      else
+#endif
       strcpy (ofname, ifname);
       if ((cp = strrchr (ofname, '.'))) *cp = 0;
       if (multi_out)
