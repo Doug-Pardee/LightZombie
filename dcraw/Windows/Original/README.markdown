@@ -1,3 +1,5 @@
+# Original dcraw.exe for LightZone 3.9 for Windows
+
 Users:
 
 This version of dcraw.exe is the version that was

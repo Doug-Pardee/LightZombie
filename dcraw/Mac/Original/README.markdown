@@ -1,3 +1,5 @@
+# Original dcraw for LightZone 3.9.2 for Mac
+
 Users:
 
 This version of the dcraw executable is the version that was

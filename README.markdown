@@ -1,4 +1,4 @@
-**LightZone is dead. Or is it...?**
+# LightZone is dead. Or is it...?
 
 The LightZombie Project is a volunteer, open-source project that aims
 to keep the LightZone photo editor usable for as long as practical.
