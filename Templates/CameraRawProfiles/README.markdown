@@ -15,7 +15,7 @@ On Windows, there's a `LightZone\Templates` folder in your main documents folder
 
 About specific profiles:
 
-*Pentax K-r : a copy of the Pentax K-X profile. Both camera models use the same sensor and processing hardware.
+* Pentax K-r : a copy of the Pentax K-X profile. Both camera models use the same sensor and processing hardware.
 
 Developers:
 
