@@ -13,8 +13,6 @@ This github project is the technical side of the Zombie Project.
 Here you will find files to download,
 a tech-oriented [wiki](https://github.com/Doug-Pardee/LightZombie/wiki),
 and an issue tracker.
-Software developers are welcome to contribute;
-at the moment we could use Mac and Linux developers to support those platforms.
 
 If you've lost the install package for LightZone and need a replacement,
 or if you're on a Mac and have found out that
@@ -33,15 +31,28 @@ The buttons of interest are:
 * **Code** -- here you'll find files for downloading,
 mixed in with some other stuff you probably don't care about.
 In particular, the README files are used by github
-to create descriptions like this one you're reading right now.
+to create descriptions like this one you're reading right now,
+so there's no point in opening them because they're already displayed.
 To download a file,
 you'll probably need to click on the "Raw" option after you click the file.
 
 * **Issues** -- here you can enter an issue report for any problems that
 you find, and to see what issues have been reported and/or fixed.
 
-* **Wiki** -- here is some tech information provided by the LightZombie
+* **Wiki** -- here is some tech information collected by the LightZombie
 staff.
+
+## Interested in contributing?
+
+Software developers are welcome to contribute;
+at the moment we could use Mac and Linux developers to support those platforms.
+To contribute, simply fork the project,
+make your changes, commit them and push them to the github repository,
+then submit a Pull Request (you might need to learn about git and github first).
+
+If you just want to contribute to the wiki, you'll need a github account.
+Then send an email to Doug-Pardee requesting access.
+The email address is in his github profile.
 
 ## The LightZombie necromancy staff:
 
