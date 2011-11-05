@@ -1,4 +1,4 @@
-# dcraw README
+# dcraw
 
 Users:
 
@@ -33,4 +33,4 @@ images in the browser.
 
 ----------
 
-**This file is licensed under GPL.**
+**dcraw is licensed under GPL.**
