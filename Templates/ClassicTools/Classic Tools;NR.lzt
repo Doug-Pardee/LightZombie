@@ -1,0 +1,13 @@
+<Template version="7">
+  <Scale Factor="0.23936696"/>
+  <Image path=""/>
+  <Controls>
+    <GenericOperation Active="true" Collapsed="false" Locked="false" Mode="Normal" Name="Classic NR" Opacity="100" OperationType="Advanced Noise Reduction" regionsInverted="false">
+      <Slider Color_Intensity="2.0" Color_Radius="2.0" Grain_Intensity="0.0" Grain_Radius="0.0"/>
+      <Checkbox/>
+      <Choice/>
+    </GenericOperation>
+    <Region/>
+    <Crop Angle="0.0"/>
+  </Controls>
+</Template>

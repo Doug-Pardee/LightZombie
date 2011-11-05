@@ -1,0 +1,13 @@
+<Template version="7">
+  <Scale Factor="0.23936696"/>
+  <Image path=""/>
+  <Controls>
+    <GenericOperation Active="true" Collapsed="false" Locked="false" Mode="Normal" Name="Classic HSL" Opacity="100" OperationType="Hue/Saturation" regionsInverted="false">
+      <Slider Hue="0.0" Luminosity="0.0" Saturation="0.0"/>
+      <Checkbox/>
+      <Choice/>
+    </GenericOperation>
+    <Region/>
+    <Crop Angle="0.0"/>
+  </Controls>
+</Template>
