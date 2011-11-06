@@ -22,7 +22,18 @@ Do let us know there's a need for a particular camera profile.
 
 **About specific profiles:**
 
-* Pentax K-r : a straight copy of the Pentax K-X profile. Both camera models use the same sensor and processing hardware.
+* Canon 60D : custom-created
+* Canon 600D : copy of Canon 60D profile
+* Canon Kiss X : copy of Canon 400D profile
+* Canon Kiss X2 : copy of Canon 450D profile
+* Canon Kiss X3 : copy of Canon 500D profile
+* Canon Kiss X4 : copy of Canon 550D profile
+* Canon Kiss X5 : copy of Canon 600D profile
+* Canon XSi : copy of Canon 450D profile
+* Canon T3i : copy of Canon 600D profile
+* Olympus E-5 : custom-created
+* Panasonic LX5 : custom-created
+* Pentax K-r : copy of Pentax K-X profile
 
 Developers:
 
