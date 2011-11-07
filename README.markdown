@@ -8,6 +8,7 @@ New LightZone licenses are no longer being sold,
 but existing licenses continue to work.
 The activation process goes through Digital River's eSellerate,
 not through Light Crafts, so activation isn't a problem.
+The Linux version doesn't do activation at all.
 
 This github project is the technical side of the Zombie Project.
 Here you will find files to download,
@@ -45,7 +46,9 @@ staff.
 ## Interested in contributing?
 
 Software developers are welcome to contribute;
-at the moment we could use Mac and Linux developers to support those platforms.
+at the moment we could especially use Mac and Linux developers
+to support those platforms,
+and someone familiar with EXIF to work out the kinks in metadata interpretation.
 To contribute, simply fork the project,
 make your changes, commit them and push them to the github repository,
 then submit a Pull Request (you might need to learn about git and github first).
@@ -54,14 +57,15 @@ If you just want to contribute to the wiki, you'll need a github account.
 Then send an email to Doug-Pardee requesting access.
 The email address is in his github profile.
 
-## The LightZombie necromancy staff:
+## The LightZombie necromancy crew:
 
 * Tex Andrews - communications, coordination
 * Doug Pardee - dcraw, camera raw profiles, Windows, github
+* (open) - metadata (EXIF, etc.)
 * (open) - Mac
 * (open) - Linux
 
 ----------
 
-Trademark acknowledgement: Light Crafts, LightZone, ZoneFinder, ZoneMapper,
+Trademark acknowledgements: Light Crafts, LightZone, ZoneFinder, ZoneMapper,
 ToneMapper, and RegionMapper are trademarks of Light Crafts, Inc.
