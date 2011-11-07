@@ -2,16 +2,26 @@
 
 Users:
 
-This [will be] the `dcraw.exe` executable file for use with
+This is the `dcraw.exe` executable file for use with
 LightZone 3.9 on Windows.
 
 Rename the original `dcraw.exe` file in your LightZone installation folder
 and replace it with the one in this folder.
 
-There might be a newer, but not fully tested, version in the 'Unstable' branch.
+At the moment, the
+[updated Windows dcraw](https://github.com/Doug-Pardee/LightZombie/raw/Unstable/dcraw/Windows/dcraw.exe)
+is unproven.
+It should be considered somewhere between 'alpha' and 'beta' software.
+If you don't need it for your current cameras,
+you probably should stick with
+[the original version](https://github.com/Doug-Pardee/LightZombie/raw/master/dcraw/Windows/Original/dcraw.exe)
+shipped with LZ 3.9.
+Please report any problems through the Issue Tracker.
 
 In the event of trouble,
-the original LightZone 3.9 executable can be found in the 'Original' folder.
+the original LightZone 3.9 `dcraw.exe` executable
+can be found in the 'Original' folder
+or just use the link above.
 
 Developers:
 

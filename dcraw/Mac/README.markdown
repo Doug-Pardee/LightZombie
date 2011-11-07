@@ -2,17 +2,29 @@
 
 Users:
 
-This [will be] the `dcraw` executable file for use with
+This is the `dcraw` executable file for use with
 LightZone 3.9.2 on Mac.
 
 Rename the original `dcraw` file in your
 LightZone.app/Contents/Resources/Java folder
 and replace it with the one in this folder.
 
-There might be a newer, but not fully tested, version in the 'Unstable' branch.
+At the moment, the
+[updated Mac dcraw](https://github.com/Doug-Pardee/LightZombie/raw/Unstable/dcraw/Mac/dcraw.exe)
+is unproven.
+It was compiled on Lion (OS X 10.7),
+and it's unknown if it will run properly on earlier versions of OS X.
+It should be considered somewhere between 'alpha' and 'beta' software.
+If you don't need it for your current cameras,
+you probably should stick with
+[the original version](https://github.com/Doug-Pardee/LightZombie/raw/master/dcraw/Mac/Original/dcraw.exe)
+shipped with LZ 3.9.2.
+Please report any problems through the Issue Tracker.
 
 In the event of trouble,
-the original LightZone 3.9.2 executable can be found in the 'Original' folder.
+the original LightZone 3.9.2 `dcraw.exe` executable
+can be found in the 'Original' folder
+or just use the link above.
 
 Developers:
 
