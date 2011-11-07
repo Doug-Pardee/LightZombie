@@ -9,12 +9,12 @@ Rename the original `dcraw` file in your LightZone installation directory
 and replace it with the one in this folder.
 
 At the moment, the
-[updated Linux dcraw](https://github.com/Doug-Pardee/LightZombie/raw/Unstable/dcraw/Linux/dcraw.exe)
+[updated Linux dcraw](https://github.com/Doug-Pardee/LightZombie/raw/Unstable/dcraw/Linux/dcraw)
 is unproven.
 It should be considered somewhere between 'alpha' and 'beta' software.
 If you don't need it for your current cameras,
 you probably should stick with
-[the original version](https://github.com/Doug-Pardee/LightZombie/raw/master/dcraw/Linux/Original/dcraw.exe)
+[the original version](https://github.com/Doug-Pardee/LightZombie/raw/master/dcraw/Linux/Original/dcraw)
 shipped with LZ 3.9.
 Please report any problems through the Issue Tracker.
 
