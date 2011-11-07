@@ -42,3 +42,12 @@ that is part of the LightZone installation.
 This file is simply a ZIP file.
 The profiles are in the `com/lightcrafts/ui/editor/assoc/resources` folder
 inside the `lightzone.jar` ZIP file.
+
+The correct file name can usually be determined by opening the Raw file,
+then examining the LightZone log file.
+LightZone will have a message there saying that it couldn't find the
+tone curve file, and that message will give the exact name.
+Another possibility is to use the
+[Flickr Camera Finder](http://www.flickr.com/cameras/);
+this is especially useful when dealing with cameras that have
+multiple names for the same model (Canon and Pansonic like to do that).
