@@ -15,6 +15,9 @@ the original LightZone 3.9 executable can be found in the 'Original' folder.
 
 Developers:
 
+The command line currently being used is:
+`gcc -o dcraw -O4 dcraw.c -lm -g -DNODEPS -DLIGHTZONE`
+
 New builds initially go into the 'Unstable' branch.
 If no problems turn up after a reasonable amount of time,
 they'll be merged into the 'master' branch.
