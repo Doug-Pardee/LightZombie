@@ -51,10 +51,13 @@ and are released to the public domain:
 The following profiles are copies of profiles provided by Light Crafts,
 and are covered under the LightZone license:
 
+* Canon 1100D : copy of Canon 450D profile
 * Canon Kiss X : copy of Canon 400D profile
 * Canon Kiss X2 : copy of Canon 450D profile
 * Canon Kiss X3 : copy of Canon 500D profile
 * Canon Kiss X4 : copy of Canon 550D profile
 * Canon Kiss X5 : copy of Canon 600D profile
+* Canon Kiss X50 : copy of Canon 450D profile
+* Canon Rebel T3 : copy of Canon 450D profile
 * Canon Rebel XSi : copy of Canon 450D profile
 * Pentax K-r : copy of Pentax K-X profile
