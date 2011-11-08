@@ -60,4 +60,5 @@ and are covered under the LightZone license:
 * Canon Kiss X50 : copy of Canon 450D profile
 * Canon Rebel T3 : copy of Canon 450D profile
 * Canon Rebel XSi : copy of Canon 450D profile
+* Nikon D5000 : copy of Nikon D90 profile
 * Pentax K-r : copy of Pentax K-X profile
