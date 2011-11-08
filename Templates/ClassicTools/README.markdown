@@ -36,5 +36,11 @@ It's not clear that there's any special merit to using this tool.
 ## License
 
 The licensing of these files is unclear.
-They were posted to the old LightZone forum.
-It's a reasonable assumption that they're covered under the LightZone license.
+It seems a reasonable assumption that they're covered under the LightZone license.
+
+Channel Mixer, Tone Mapper, Classic HSL, and Classic NR were posted to the old LightZone forum
+by Jacek Góźdź on May 3, 2007.
+
+Classic Relight is based on the Polarizer style shipped with LightZone.
+
+Contrast Mask is of unknown provenance.
