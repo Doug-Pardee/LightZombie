@@ -32,3 +32,9 @@ Whether it's any more effective than the current version is a different matter.
 * Classic HSL -- this older version of the Hue/Saturation tool
 doesn't have the Vibrance slider.
 It's not clear that there's any special merit to using this tool.
+
+## License
+
+The licensing of these files is unclear.
+They were posted to the old LightZone forum.
+It's a reasonable assumption that they're covered under the LightZone license.

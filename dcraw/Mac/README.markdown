@@ -31,3 +31,8 @@ Developers:
 New builds initially go into the 'Unstable' branch.
 If no problems turn up after a reasonable amount of time,
 they'll be merged into the 'master' branch.
+
+## License
+
+dcraw is licensed under GPL (the GNU General Public License).
+See the comments at the beginning of the dcraw.c source code for details.

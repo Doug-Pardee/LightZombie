@@ -31,6 +31,7 @@ demosaicing the image. It has its own demosaicing logic for that.
 LZ does use `dcraw` demosaicing for the thumbnail and preview
 images in the browser.
 
-----------
+## License
 
-**dcraw is licensed under GPL.**
+dcraw is licensed under GPL (the GNU General Public License).
+See the comments at the beginning of the dcraw.c source code for details.

@@ -20,21 +20,6 @@ There are a lot of camera models that need Raw Tone Curves,
 but a limited number of LightZone licensees left.
 Do let us know there's a need for a particular camera profile.
 
-**About specific profiles:**
-
-* Canon 60D : custom-created
-* Canon 600D : copy of Canon 60D profile
-* Canon Kiss X : copy of Canon 400D profile
-* Canon Kiss X2 : copy of Canon 450D profile
-* Canon Kiss X3 : copy of Canon 500D profile
-* Canon Kiss X4 : copy of Canon 550D profile
-* Canon Kiss X5 : copy of Canon 600D profile
-* Canon XSi : copy of Canon 450D profile
-* Canon T3i : copy of Canon 600D profile
-* Olympus E-5 : custom-created
-* Panasonic LX5 : custom-created
-* Pentax K-r : copy of Pentax K-X profile
-
 Developers:
 
 The pre-existing profiles can be found in the `lightzone.jar` file
@@ -51,3 +36,25 @@ Another possibility is to use the
 [Flickr Camera Finder](http://www.flickr.com/cameras/);
 this is especially useful when dealing with cameras that have
 multiple names for the same model (Canon and Pansonic like to do that).
+
+## License
+
+The following profiles are original work of the LightZombie Project,
+and are released to the public domain:
+
+* Canon 60D : custom-created
+* Canon 600D : copy of Canon 60D profile
+* Canon Rebel T3i : copy of Canon 600D profile
+* Olympus E-5 : custom-created
+* Panasonic LX5 : custom-created
+
+The following profiles are copies of profiles provided by Light Crafts,
+and are covered under the LightZone license:
+
+* Canon Kiss X : copy of Canon 400D profile
+* Canon Kiss X2 : copy of Canon 450D profile
+* Canon Kiss X3 : copy of Canon 500D profile
+* Canon Kiss X4 : copy of Canon 550D profile
+* Canon Kiss X5 : copy of Canon 600D profile
+* Canon Rebel XSi : copy of Canon 450D profile
+* Pentax K-r : copy of Pentax K-X profile
