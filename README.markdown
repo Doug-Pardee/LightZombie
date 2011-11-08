@@ -71,7 +71,9 @@ Unless otherwise indicated,
 all original work of the LightZombie Project,
 including README and wiki content,
 is released to the public domain.
-Some of the files contained in the LightZombit Project are not original work,
+
+
+Some of the files contained in the LightZombie Project are not original work,
 and those are licensed separately by their creators or rights-holders.
 
 ## Trademarks
