@@ -30,6 +30,7 @@ and are released to the public domain:
 
 * Canon 60D : custom-created
 * Canon 600D : copy of Canon 60D profile
+* Canon Kiss X5 : copy of Canon 600D profile
 * Canon Rebel T3i : copy of Canon 600D profile
 
 The following profiles are copies of profiles provided by Light Crafts,
@@ -40,7 +41,6 @@ and are covered under the LightZone license:
 * Canon Kiss X2 : copy of Canon 450D profile
 * Canon Kiss X3 : copy of Canon 500D profile
 * Canon Kiss X4 : copy of Canon 550D profile
-* Canon Kiss X5 : copy of Canon 600D profile
 * Canon Kiss X50 : copy of Canon 450D profile
 * Canon Rebel T3 : copy of Canon 450D profile
 * Canon Rebel XSi : copy of Canon 450D profile
