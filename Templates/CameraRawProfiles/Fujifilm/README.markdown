@@ -1,4 +1,4 @@
-# Raw profiles for new Panasonic camera models
+# Raw profiles for new Fujifilm camera models
 
 Users:
 
@@ -8,7 +8,7 @@ to Raw files from recognized cameras.
 LightZone *can* process Raw files without a Raw Tone Curve for that camera,
 but the result will tend to be somewhat on the dark side.
 
-Here are some Raw Tone Curve files for Panasonic cameras that weren't included
+Here are some Raw Tone Curve files for Fujifilm cameras that weren't included
 in LightZone 3.9.
 Install the file(s) into your normal LightZone template folder.
 On Windows,
@@ -28,8 +28,7 @@ Do let us know there's a need for a particular camera profile.
 The following profiles are original work of the LightZombie Project,
 and are released to the public domain:
 
-* Panasonic GF2 : custom-created
-* Panasonic LX5 : custom-created
+* Fuji X100 : custom-created
 
 The following profiles are copies of profiles provided by Light Crafts,
 and are covered under the LightZone license:
