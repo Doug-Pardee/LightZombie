@@ -7,6 +7,7 @@ LightZone 3.9 on Linux.
 
 Rename the original `dcraw` file in your LightZone installation directory
 and replace it with the one in this folder.
+Then you'll probably need to do a `chmod +x dcraw` to make it executable.
 
 At the moment, the
 [updated Linux dcraw](https://github.com/Doug-Pardee/LightZombie/raw/Unstable/dcraw/Linux/dcraw)
