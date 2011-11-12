@@ -39,3 +39,6 @@ Another possibility is to use the
 [Flickr Camera Finder](http://www.flickr.com/cameras/);
 this is especially useful when dealing with cameras that have
 multiple names for the same model (Canon and Pansonic like to do that).
+
+Details on how to create a Raw Tone Curve can be found in the
+[wiki](https://github.com/Doug-Pardee/LightZombie/wiki/ProjectRawToneCurves).
