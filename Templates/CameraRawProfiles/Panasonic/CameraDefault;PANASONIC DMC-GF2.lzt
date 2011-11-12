@@ -5,16 +5,22 @@
     <ZoneOperation Active="true" Collapsed="true" Locked="true" Mode="Normal" Name="Raw Tone Curve" Opacity="100" layerControlsIndex="0" regionsInverted="false" scale="1">
       <ColorSelection HueBlue="0.5" HueEnabled="true" HueGreen="0.5" HueRadius="-1.0" HueRed="0.5" Inverted="false" LuminosityEnabled="true" LuminosityLower="0.0" LuminosityLowerFeather="0.0" LuminosityUpper="1.0" LuminosityUpperFeather="0.0"/>
       <Points Size="16">
-        <Point X="6" Y="0.022123893805309734"/>
-        <Point X="7" Y="0.29646017699115046"/>
-        <Point X="8" Y="0.42035398230088494"/>
-        <Point X="9" Y="0.5973451327433629"/>
-        <Point X="11" Y="0.8230088495575221"/>
-        <Point X="13" Y="0.9247787610619469"/>
-        <Point X="14" Y="0.9557522123893806"/>
+        <Point X="7" Y="0.30447"/>
+        <Point X="8" Y="0.49479"/>
+        <Point X="9" Y="0.58995"/>
+        <Point X="10" Y="0.69549"/>
+        <Point X="12" Y="0.86851"/>
+        <Point X="13" Y="0.94509"/>
+        <Point X="14" Y="0.9690265486725663"/>
+        <Point X="15" Y="0.9867256637168141"/>
       </Points>
     </ZoneOperation>
     <Region/>
-    <Crop Angle="0.0"/>
+    <Crop>
+      <UpperLeft X="0.0" Y="0.0"/>
+      <UpperRight X="4006.0" Y="0.0"/>
+      <LowerLeft X="0.0" Y="3006.0"/>
+      <LowerRight X="4006.0" Y="3006.0"/>
+    </Crop>
   </Controls>
 </Template>
