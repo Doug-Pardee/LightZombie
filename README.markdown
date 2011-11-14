@@ -45,9 +45,8 @@ staff.
 
 ## Interested in contributing?
 
-Software developers are welcome to contribute;
-at the moment we could especially use Mac and Linux developers
-to support those platforms,
+Software developers are welcome to contribute.
+At the moment we could especially use a Mac developer to support that platform,
 and someone familiar with EXIF to work out the kinks in metadata interpretation.
 To contribute, simply fork the project,
 make your changes, commit them and push them to the github repository,
@@ -63,7 +62,7 @@ The email address is in his github profile.
 * Doug Pardee - dcraw, camera raw profiles, Windows, github
 * (open) - metadata (EXIF, etc.)
 * (open) - Mac
-* (open) - Linux
+* Marcelo Anelli - Linux
 
 ## License
 
