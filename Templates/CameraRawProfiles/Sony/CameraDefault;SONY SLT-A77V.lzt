@@ -14,11 +14,6 @@
       </Points>
     </ZoneOperation>
     <Region/>
-    <Crop>
-      <UpperLeft X="0.0" Y="0.0"/>
-      <UpperRight X="6014.0" Y="0.0"/>
-      <LowerLeft X="0.0" Y="4014.0"/>
-      <LowerRight X="6014.0" Y="4014.0"/>
-    </Crop>
+    <Crop Angle="0.0"/>
   </Controls>
 </Template>
