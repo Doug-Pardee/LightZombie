@@ -28,6 +28,7 @@ Do let us know there's a need for a particular camera profile.
 The following profiles are original work of the LightZombie Project,
 and are released to the public domain:
 
+* Sony SLT-A65 : copy of Sony A77 profile
 * Sony SLT-A77 : custom-created
 
 The following profiles are copies of profiles provided by Light Crafts,
