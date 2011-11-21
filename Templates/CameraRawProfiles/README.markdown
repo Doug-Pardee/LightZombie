@@ -13,6 +13,8 @@ in LightZone 3.9.
 Install the file(s) into your normal LightZone template folder.
 On Windows,
 there's a `LightZone\Templates` folder in your main documents folder.
+On Macs,
+there's a `LightZone/Templates` folder at `"Home"/Library/Application Support`.
 On Linux,
 there's a `Templates` directory in the LightZone installation directory.
 
