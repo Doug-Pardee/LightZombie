@@ -10,9 +10,9 @@ and replace it with the one in this folder.
 Then you'll probably need to do a `chmod +x dcraw` to make it executable.
 
 At the moment, the
-[updated Linux dcraw](https://github.com/Doug-Pardee/LightZombie/raw/Unstable/dcraw/Linux/dcraw)
-is unproven.
-It should be considered somewhere between 'alpha' and 'beta' software.
+[updated Linux dcraw](https://github.com/Doug-Pardee/LightZombie/raw/master/dcraw/Linux/dcraw)
+seems to be working,
+but it should be considered 'beta' software.
 If you don't need it for your current cameras,
 you probably should stick with
 [the original version](https://github.com/Doug-Pardee/LightZombie/raw/master/dcraw/Linux/Original/dcraw)

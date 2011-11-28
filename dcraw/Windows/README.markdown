@@ -9,9 +9,9 @@ Rename the original `dcraw.exe` file in your LightZone installation folder
 and replace it with the one in this folder.
 
 At the moment, the
-[updated Windows dcraw](https://github.com/Doug-Pardee/LightZombie/raw/Unstable/dcraw/Windows/dcraw.exe)
-is unproven.
-It should be considered somewhere between 'alpha' and 'beta' software.
+[updated Windows dcraw.exe](https://github.com/Doug-Pardee/LightZombie/raw/master/dcraw/Windows/dcraw.exe)
+seems to be working fine,
+but it should be considered 'beta' software.
 If you don't need it for your current cameras,
 you probably should stick with
 [the original version](https://github.com/Doug-Pardee/LightZombie/raw/master/dcraw/Windows/Original/dcraw.exe)
