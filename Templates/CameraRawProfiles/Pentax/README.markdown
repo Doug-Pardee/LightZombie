@@ -28,7 +28,7 @@ Do let us know there's a need for a particular camera profile.
 The following profiles are original work of the LightZombie Project,
 and are released to the public domain:
 
-* (none yet)
+* Pentax K-5: custom-created
 
 The following profiles are copies of profiles provided by Light Crafts,
 and are covered under the LightZone license:
