@@ -10,11 +10,9 @@ LightZone.app/Contents/Resources/Java folder
 and replace it with the one in this folder.
 
 At the moment, the
-[updated Mac dcraw](https://github.com/Doug-Pardee/LightZombie/raw/Unstable/dcraw/Mac/dcraw)
-is unproven.
-It was compiled on Lion (OS X 10.7),
-and it's unknown if it will run properly on earlier versions of OS X.
-It should be considered somewhere between 'alpha' and 'beta' software.
+[updated Mac dcraw](https://github.com/Doug-Pardee/LightZombie/raw/master/Mac/dcraw)
+seems to be working okay,
+but it should be considered 'beta' software.
 If you don't need it for your current cameras,
 you probably should stick with
 [the original version](https://github.com/Doug-Pardee/LightZombie/raw/master/dcraw/Mac/Original/dcraw)
