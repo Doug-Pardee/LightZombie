@@ -8,6 +8,13 @@ Not all of these are particularly useful, but here they are.
 * Channel Mixer -- this is a conversion to black-and-white
 that uses the well-known channel-mixing approach.
 
+* Hi Pass Filter -- this sharpening tool operates by boosting smaller details.
+The Radius slider determines the size of the details.
+At lower settings it won't find much detail that small.
+At higher settings the smaller detail gets mixed in with larger detail.
+A value of about 0.700 gives the most selected detail,
+but that's not necessarily what you want.
+
 * Classic Relight -- this older version of the Relight tool uses a different
 approach, especially in response to the Shadows and Highlights sliders.
 It seems to be particularly valuable for handling images
@@ -24,6 +31,10 @@ There's not a lot of information available on it.
 * Contrast Mask -- superfically this tool appears to be the same as Tone Mapper,
 but under the hood it's a somewhat different implementation.
 This is *not* the classic darkroom "contrast mask" operation.
+
+* Classic Color Balance -- this tool seems to do about the same thing as the current Color Balance tool,
+but uses R/G/B sliders rather than the color wheel.
+It doesn't seem to have nearly as much range as the modern version.
 
 * Classic NR -- this older version of the Noise Reduction tool
 provides more controls.
@@ -42,5 +53,7 @@ Channel Mixer, Tone Mapper, Classic HSL, and Classic NR were posted to the old L
 by Jacek Góźdź on May 3, 2007.
 
 Classic Relight is based on the Polarizer style shipped with LightZone.
+
+Hi Pass Filter and Classic Color Balance were recreated.
 
 Contrast Mask is of unknown provenance.
