@@ -8,6 +8,10 @@ LightZone 3.9.2 on Mac.
 Rename the original `dcraw` file in your
 LightZone.app/Contents/Resources/Java folder
 and replace it with the one in this folder.
+Then you'll probably need to do a `chmod +x dcraw` to make it executable.
+If you don't know how to do the chmod,
+[this link](http://macosx.com/forums/1511177-post2.html)
+might help.
 
 At the moment, the
 [updated Mac dcraw](https://github.com/Doug-Pardee/LightZombie/raw/master/dcraw/Mac/dcraw)
