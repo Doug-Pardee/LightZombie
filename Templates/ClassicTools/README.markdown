@@ -7,6 +7,8 @@ Not all of these are particularly useful, but here they are.
 
 * Channel Mixer -- this is a conversion to black-and-white
 that uses the well-known channel-mixing approach.
+The channel sliders provide ranges that run from -2 to +2,
+give more leverage than the color wheel on the modern B&W tool does.
 
 * Hi Pass Filter -- this sharpening tool operates by boosting smaller details.
 The Radius slider determines the size of the details.
@@ -18,17 +20,33 @@ but that's not necessarily what you want.
 * Classic Relight -- this older version of the Relight tool uses a different
 approach, especially in response to the Shadows and Highlights sliders.
 It seems to be particularly valuable for handling images
-with an extremely wide tonal range,
+with an extremely wide tonal range
+-- especially images with problematic highlights --
 and LZ still uses it for that purpose in the
 Polarizer and the High Dynamic Range styles.
 LZ also uses this version in the Soft Wow style.
 
-* Tone Mapper -- this ancestor of Relight uses a very different approach to
-redistributing the tonal range in an image.
-There's not a lot of information available on it.
+* Tone Mapper -- this appears to be
+the classic darkroom "contrast mask" operation
+plus a Detail slider which allows control of the effect on midtone areas.
+At Detail=0, this control is almost identical
+to the Contrast Mask tool at the same settings.
+The LightZone version uses Soft Light as the default blend mode,
+while the classic contrast masking technique uses Overlay blend mode.
+The Overlay blend mode can be used to give a stronger result.
+The Soft Dodge blend mode can sometimes be used to give an extreme result,
+as can Color Dodge with a fairly high Gamma setting.
 
 * Contrast Mask -- this appears to be
 the classic darkroom "contrast mask" operation.
+The only apparent advantage over the later Tone Mapper
+is the ability to use Radius values below 100
+to give a more "flat lighting" effect.
+The LightZone version uses Soft Light as the default blend mode,
+while the classic contrast masking technique uses Overlay blend mode.
+The Overlay blend mode can be used to give a stronger result.
+The Soft Dodge blend mode can sometimes be used to give an extreme result,
+as can Color Dodge with a fairly high Gamma setting.
 
 * Classic Color Balance -- this tool seems to do about the same thing
 as the current Color Balance tool,
