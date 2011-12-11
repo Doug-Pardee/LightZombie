@@ -1,9 +1,9 @@
 <Template version="7">
-  <Scale Factor="0.23936696"/>
+  <Scale Factor="0.20944805"/>
   <Image path=""/>
   <Controls>
-    <GenericOperation Active="true" Collapsed="false" Locked="false" Mode="Soft Light" Name="Contrast Mask" Opacity="75" OperationType="Tone Mapper" regionsInverted="false">
-      <Slider Detail="0.8" Gamma="2.2" Radius="250.0"/>
+    <GenericOperation Active="true" Collapsed="false" Locked="false" Mode="Soft Light" Name="Contrast Mask" Opacity="50" OperationType="Contrast Mask" layerControlsIndex="0" regionsInverted="false">
+      <Slider Gamma="2.2" Radius="128.0"/>
       <Checkbox/>
       <Choice/>
     </GenericOperation>

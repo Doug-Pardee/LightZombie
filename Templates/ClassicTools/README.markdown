@@ -25,14 +25,13 @@ LZ also uses this version in the Soft Wow style.
 
 * Tone Mapper -- this ancestor of Relight uses a very different approach to
 redistributing the tonal range in an image.
-It seems to concentrate on controlling highlights.
 There's not a lot of information available on it.
 
-* Contrast Mask -- superfically this tool appears to be the same as Tone Mapper,
-but under the hood it's a somewhat different implementation.
-This is *not* the classic darkroom "contrast mask" operation.
+* Contrast Mask -- this appears to be
+the classic darkroom "contrast mask" operation.
 
-* Classic Color Balance -- this tool seems to do about the same thing as the current Color Balance tool,
+* Classic Color Balance -- this tool seems to do about the same thing
+as the current Color Balance tool,
 but uses R/G/B sliders rather than the color wheel.
 It doesn't seem to have nearly as much range as the modern version.
 
@@ -47,13 +46,13 @@ It's not clear that there's any special merit to using this tool.
 ## License
 
 The licensing of these files is unclear.
-It seems a reasonable assumption that they're covered under the LightZone license.
+It seems a reasonable assumption that they're covered
+under the LightZone license.
 
-Channel Mixer, Tone Mapper, Classic HSL, and Classic NR were posted to the old LightZone forum
+Channel Mixer, Tone Mapper, Classic HSL, and Classic NR
+were posted to the old LightZone forum
 by Jacek Góźdź on May 3, 2007.
 
 Classic Relight is based on the Polarizer style shipped with LightZone.
 
-Hi Pass Filter and Classic Color Balance were recreated.
-
-Contrast Mask is of unknown provenance.
+Hi Pass Filter, Classic Color Balance, and Contrast Mask were recreated.
