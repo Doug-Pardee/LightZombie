@@ -34,4 +34,4 @@ and are released to the public domain:
 The following profiles are copies of profiles provided by Light Crafts,
 and are covered under the LightZone license:
 
-* (none yet)
+* Sony SLT-A33 : copy of Sony A550 profile
