@@ -15,6 +15,7 @@ The known differences are:
 * A new parameter `-F <filename>` is provided for specifying the output filename.
 * The `-i` (identify) option displays the camera's RGB matrix.
 * The output color space is changed to have the same gamut and white point as ProPhoto but without any gamma.
+* Fuji EXR files with two Raw images report having one image to prevent confusion with Fuji SuperCCD.
 
 
 There are two branches of interest.
