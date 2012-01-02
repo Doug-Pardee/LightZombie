@@ -32,6 +32,7 @@ and are released to the public domain:
 * Canon 600D : copy of Canon 60D profile
 * Canon Kiss X5 : copy of Canon 600D profile
 * Canon Rebel T3i : copy of Canon 600D profile
+* Canon PowerShot S100 : custom-created
 
 The following profiles are copies of profiles provided by Light Crafts,
 and are covered under the LightZone license:
