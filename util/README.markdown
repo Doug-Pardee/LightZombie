@@ -14,4 +14,4 @@ This is a Ruby script, so you'll need a Ruby interpreter to use it.
 
 ## License
 
-`q13rtc.rb` is released to the public domain
+* `q13rtc.rb` is released to the public domain
