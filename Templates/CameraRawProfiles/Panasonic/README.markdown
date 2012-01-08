@@ -28,7 +28,9 @@ Do let us know there's a need for a particular camera profile.
 The following profiles are original work of the LightZombie Project,
 and are released to the public domain:
 
+* Panasonic G3 : custom-created
 * Panasonic GF2 : custom-created
+* Panasonic GX1 : copy of Panasonic G3 profile
 * Panasonic LX5 : custom-created
 
 The following profiles are copies of profiles provided by Light Crafts,
