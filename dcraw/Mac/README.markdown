@@ -30,6 +30,10 @@ or just use the link above.
 
 Developers:
 
+The Mac version was compiled using the following command lines (some of the file names look to have been modified):
+`gcc -m32 -o dcraw32 -O4 dcraw912-2.c -lm -g -DNODEPS -DLIGHTZONE`  
+`lipo -create dcraw32 dcraw9.12 -output dcraw-u`
+    
 New builds initially go into the 'Unstable' branch.
 If no problems turn up after a reasonable amount of time,
 they'll be merged into the 'master' branch.
