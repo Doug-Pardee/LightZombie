@@ -33,6 +33,7 @@ and are released to the public domain:
 
 * Fuji X10 : custom-created
 * Fuji X100 : custom-created
+* Fuji X-Pro1 : custom-created
 
 The following profiles are copies of profiles provided by Light Crafts,
 and are covered under the LightZone license:
