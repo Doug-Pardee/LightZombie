@@ -30,8 +30,11 @@ and are released to the public domain:
 
 * Canon 60D : custom-created
 * Canon 600D : copy of Canon 60D profile
+* Canon 650D : custom-created
 * Canon Kiss X5 : copy of Canon 600D profile
+* Canon Kiss X6 : copy of Canon 650D profile
 * Canon Rebel T3i : copy of Canon 600D profile
+* Canon Rebel T4i : copy of Canon 650D profile
 * Canon PowerShot S100 : custom-created
 
 The following profiles are copies of profiles provided by Light Crafts,
