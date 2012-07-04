@@ -30,8 +30,10 @@ and are released to the public domain:
 
 * Nikon 1 J1 : custom-created
 * Nikon 1 V1 : copy of Nikon 1 J1 profile
+* Nikon D4 : custom-created
 * Nikon D800 : custom-created
 * Nikon D3100 : custom-created
+* Nikon D3200 : custom-created
 * Nikon D5100 : copy of Nikon D7000 profile
 * Nikon D7000 : custom-created
 
