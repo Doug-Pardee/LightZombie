@@ -30,8 +30,11 @@ and are released to the public domain:
 
 * Sony NEX-5N : copy of Nikon D7000 profile
 * Sony NEX-7 : copy of Sony A77 profile
+* Sony NEX-F3 : copy of Nikon D7000 profile
 * Sony SLT-A35 : copy of Nikon D7000 profile
+* Sony SLT-A37 : copy of Nikon D7000 profile
 * Sony SLT-A55 : copy of Nikon D7000 profile
+* Sony SLT-A57 : copy of Nikon D7000 profile
 * Sony SLT-A65 : copy of Sony A77 profile
 * Sony SLT-A77 : custom-created
 
