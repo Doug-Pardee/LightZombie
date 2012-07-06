@@ -28,10 +28,15 @@ Do let us know there's a need for a particular camera profile.
 The following profiles are original work of the LightZombie Project,
 and are released to the public domain:
 
+* Canon 5D mk III : custom-created
 * Canon 60D : custom-created
 * Canon 600D : copy of Canon 60D profile
+* Canon 650D : custom-created
 * Canon Kiss X5 : copy of Canon 600D profile
+* Canon Kiss X6i : copy of Canon 650D profile
 * Canon Rebel T3i : copy of Canon 600D profile
+* Canon Rebel T4i : copy of Canon 650D profile
+* Canon PowerShot G1 X : custom-created
 * Canon PowerShot S100 : custom-created
 
 The following profiles are copies of profiles provided by Light Crafts,

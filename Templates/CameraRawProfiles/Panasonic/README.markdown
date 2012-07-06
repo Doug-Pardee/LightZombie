@@ -31,6 +31,7 @@ and are released to the public domain:
 * Panasonic FZ150 : custom-created
 * Panasonic G3 : custom-created
 * Panasonic GF2 : custom-created
+* Panasonic GF3 : copy of Panasonic GF2 profile
 * Panasonic GX1 : copy of Panasonic G3 profile
 * Panasonic LX5 : custom-created
 
