@@ -28,6 +28,7 @@ Do let us know there's a need for a particular camera profile.
 The following profiles are original work of the LightZombie Project,
 and are released to the public domain:
 
+* Sony RX100 : custom-created
 * Sony NEX-5N : copy of Nikon D7000 profile
 * Sony NEX-7 : copy of Sony A77 profile
 * Sony NEX-F3 : copy of Nikon D7000 profile
