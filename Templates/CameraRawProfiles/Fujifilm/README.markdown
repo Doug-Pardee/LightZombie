@@ -16,9 +16,6 @@ there's a `LightZone\Templates` folder in your main documents folder.
 On Linux,
 there's a `Templates` directory in the LightZone installation directory.
 
-**The X10 template is only approximate.
-A more accurate template will be created when a reference image is available.**
-
 **==>** If you need a Raw Tone Curve file for a camera model that isn't here,
 please submit a request in the
 [Issue Tracker](https://github.com/Doug-Pardee/LightZombie/issues).
@@ -33,6 +30,8 @@ and are released to the public domain:
 
 * Fuji X10 : custom-created
 * Fuji X100 : custom-created
+* Fuji XF1 : copy of X10
+* Fuji X-E1 : copy of X-Pro1
 * Fuji X-S1 : custom-created
 * Fuji X-Pro1 : custom-created
 
