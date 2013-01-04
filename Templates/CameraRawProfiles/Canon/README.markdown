@@ -50,3 +50,4 @@ and are covered under the LightZone license:
 * Canon Kiss X50 : copy of Canon 450D profile
 * Canon Rebel T3 : copy of Canon 450D profile
 * Canon Rebel XSi : copy of Canon 450D profile
+* Canon PowerShot S95 : copy of Canon S90 profile
