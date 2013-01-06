@@ -29,6 +29,7 @@ The following profiles are original work of the LightZombie Project,
 and are released to the public domain:
 
 * Nikon 1 J1 : custom-created
+* Nikon 1 J2 : copy of Nikon 1 J1 profile
 * Nikon 1 V1 : copy of Nikon 1 J1 profile
 * Nikon D4 : custom-created
 * Nikon D800 : custom-created

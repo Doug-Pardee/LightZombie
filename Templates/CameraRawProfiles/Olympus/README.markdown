@@ -30,6 +30,8 @@ and are released to the public domain:
 
 * Olympus E-5 : custom-created
 * Olympus E-M5 : custom-created
+* Olympus E-PL5 : copy of Olympus E-M5 profile
+* Olympus E-PM2 : copy of Olympus E-M5 profile
 
 The following profiles are copies of profiles provided by Light Crafts,
 and are covered under the LightZone license:

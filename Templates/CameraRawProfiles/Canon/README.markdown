@@ -36,8 +36,12 @@ and are released to the public domain:
 * Canon Kiss X6i : copy of Canon 650D profile
 * Canon Rebel T3i : copy of Canon 600D profile
 * Canon Rebel T4i : copy of Canon 650D profile
+* Canon EOS M : copy of Canon 650D profile
 * Canon PowerShot G1 X : custom-created
+* Canon PowerShot G15 : copy of Canon S100 profile
+* Canon PowerShot SX50 HS : copy of Canon S100 profile
 * Canon PowerShot S100 : custom-created
+* Canon PowerShot S110 : copy of Canon S100 profile
 
 The following profiles are copies of profiles provided by Light Crafts,
 and are covered under the LightZone license:
