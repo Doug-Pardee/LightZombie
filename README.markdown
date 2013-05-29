@@ -1,8 +1,13 @@
-# LightZone is dead. Or IS IT...?
-
-The LightZombie Project is an unofficial, volunteer, open-source project
-that aims to keep the LightZone photo editor usable for as long as practical.
+# The LightZombie Project - (obsolescent)
+** **
+**This project is obsolescent. LightZone is now open source.
+See https://github.com/Aries85/LightZone for current activity.**
+** **
+The LightZombie Project was an unofficial, volunteer, open-source project
+that aimed to keep the LightZone photo editor usable for as long as practical.
 LightZone's creator, Light Crafts Inc., ceased operations in September 2011.
+In December 2012, Fabio Ricardi released the LightZone 3.9 source under a
+BSD license.
 
 New LightZone licenses are no longer being sold,
 but existing licenses continue to work.
@@ -10,7 +15,7 @@ The activation process goes through Digital River's eSellerate,
 not through Light Crafts, so activation isn't a problem.
 The Linux version doesn't do activation at all.
 
-This github project is the technical side of the Zombie Project.
+This github project is the technical side of the LightZombie Project.
 Here you will find files to download,
 a tech-oriented [wiki](https://github.com/Doug-Pardee/LightZombie/wiki),
 and an issue tracker.
