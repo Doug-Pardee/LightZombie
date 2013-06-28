@@ -1,7 +1,10 @@
-# The LightZombie Project - (obsolescent)
+# The LightZombie Project - (obsolete and retired)
 ** **
-**This project is obsolescent. LightZone is now open source.
-See https://github.com/Aries85/LightZone for current activity.**
+** **
+**This project is OBSOLETE and RETIRED. LightZone is now open source.
+See https://github.com/Aries85/LightZone for current activity,
+and http://lightzoneproject.org/ for downloads, support, etc.**
+** **
 ** **
 The LightZombie Project was an unofficial, volunteer, open-source project
 that aimed to keep the LightZone photo editor usable for as long as practical.
